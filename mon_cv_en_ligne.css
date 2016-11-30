@@ -29,4 +29,23 @@ body {
 	width:45px;
 	margin: 10px;
 }
+.inline{
+	display:inline;
+}
+
+.display-block{
+	display:block;
+}
+.bouton{
+	display:inline-block;
+	margin:5px 5px 5px5px;
+	padding:10px 10px 10px 10px;
+	background-color:white;
+	color:orange;
+	border-radius:5px;
+}
+.bouton:hover{
+	background-color:blue;
+	font-weight:bold;
+}
 
