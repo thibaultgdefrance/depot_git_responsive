@@ -1,0 +1,29 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" src="style.css" href=""/>
+		<title>thibault_defrance_question</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" src="style.css" href="/home/thibault/Documents/cours et exercices/cv_question.css"/>
+	</head>
+	<body>
+		
+		<form action="" method="post" entype="multipart/form-data">
+			<center>
+				<div>
+				<input nom="nom" type="text" value="" placeholder="nom" required />
+				</div>
+				<div>
+				<input nom="prénom" type="text" value="" placeholder="prénom" required />
+				</div>
+				<div>
+				<input nom="email" type="email" value="" placeholder="email" required />
+				</div>
+				<div>
+				<textarea  name ="texte "placeholder="vos questions"></textarea>
+				</div>
+				<button>Envoyer</button>
+		</center>
+		</form>
+	</body>
+</html>
