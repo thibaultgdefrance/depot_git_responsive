@@ -8,7 +8,7 @@ h1{
 	display: inline-block;
 	border-radius:15%;
 	padding: 10px;
-	
+	font-size: 50px;
 }
 
 h2{
@@ -17,6 +17,7 @@ h2{
 	display: inline-block;
 	border-radius:15%;
 	padding: 10px;
+	font-size: 30px;
 }
 
 .icon {
@@ -35,7 +36,6 @@ h2{
 	width: 50px;
 }
 
-}
 .me_poser_une_question {
 	color: ForestGreen;
 	border: solid ; #9ACD32;
@@ -74,7 +74,6 @@ h2{
 	height:100px;
 	width:100px;
 	border-radius:50%;
-
 }
 
 #photo {
@@ -84,7 +83,14 @@ h2{
 	right: 100px;
 	position: absolute;
 }
+
 #profil:hover {
 	height: 200px;
 	width: 200px;
+}
+.font {
+	 font-family: 'Dancing Script', cursive;
+}
+li {
+	font-size:30px
 }
