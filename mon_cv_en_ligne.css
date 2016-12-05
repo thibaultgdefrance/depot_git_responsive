@@ -94,3 +94,6 @@ h2{
 li {
 	font-size:30px
 }
+a:hover {
+	color: white;
+}
