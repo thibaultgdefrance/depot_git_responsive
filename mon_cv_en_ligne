@@ -56,7 +56,7 @@
 					<li><a href="http://www.filieris.fr/npdc-foyer-logement/npdc-bully-les-mines-fl-joseph-porebski">agent en service hospitalier CARMI</a></li>
 					<li><a href="http://www.securite-sociale.fr/">agent administratif securité social</a></li>
 					<li><a href="http://www.holcim-haut-rhin.fr/solutions-clients/betons.html">agent administratif et logistique HOLCIM BETON</a></li>
-					<li>ingenieur du son et animateur radio RADIO PLUS</li>
+					<li><a href="https://www.radioplus.fr/">ingenieur du son et animateur radio RADIO PLUS</a></li>
 					<li><a href="http://telegohelle.over-blog.fr/">monteur video et cadreur TELE GOHELLE</a></li>
 				</ul>
 			</div>
@@ -83,6 +83,7 @@
 					<li>62114</li>
 				</ul>
 			</div>
+			<form action="" method="post" enctype="multipart/form-data">
 			<div id="me_poser_une_question"  class="font">
 				<div>
 					<h2 class="vert">Me poser une question.</h2>
