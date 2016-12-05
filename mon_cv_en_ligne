@@ -53,16 +53,16 @@
 			<div class="vert"  id="parcours">
 				<h2 class="font">Mon parcours</h2>
 				<ul class="font">
-					<li>agent en service hospitalier CARMI</li>
-					<li>agent administratif securité social</li>
-					<li>agent administratif et logistique HOLCIM BETON</li>
+					<li><a href="http://www.filieris.fr/npdc-foyer-logement/npdc-bully-les-mines-fl-joseph-porebski">agent en service hospitalier CARMI</a></li>
+					<li><a href="http://www.securite-sociale.fr/">agent administratif securité social</a></li>
+					<li><a href="http://www.holcim-haut-rhin.fr/solutions-clients/betons.html">agent administratif et logistique HOLCIM BETON</a></li>
 					<li>ingenieur du son et animateur radio RADIO PLUS</li>
-					<li>monteur video et cadreur TELE GOHELLE</li>
+					<li><a href="http://telegohelle.over-blog.fr/">monteur video et cadreur TELE GOHELLE</a></li>
 				</ul>
 			</div>
 		
 			<div class="vert" id="a_propos">
-				<h2 class="font">À propos</h2>
+				<h2 class="font">Passions</h2>
 				<ul class="font"> 
 					<li >Animation 2d/3d</li>
 					<li>modelisation 3d</li>
