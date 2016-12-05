@@ -37,7 +37,7 @@
 						<img src="/home/thibault/Documents/img/php.png" class="icon"/>
 					</div>
 					<div class="competences">
-						<p>Java Script</p>
+						<p>JavaS</p>
 						<img src="/home/thibault/Documents/img/java_sript.png" class="icon"/>
 					</div>
 					<div class="competences">
@@ -47,8 +47,15 @@
 					<div class="competences">
 						<p>Python</p>
 						<img src="https://www.python.org/static/opengraph-icon-200x200.png" class="icon"/>	
-					</div>								
-				</div>		
+					</div>
+					<div class="competences">
+						<p>Github</p>
+						<a href="https://github.com/thibaultgdefrance/depot_git_responsive"><img src="/home/thibault/Documents/img/github-512.png" class="icon"/></a>
+					</div>
+								
+				</div>
+			<br>	
+			
 		
 			<div class="vert"  id="parcours">
 				<h2 class="font">Mon parcours</h2>
@@ -83,7 +90,7 @@
 					<li>62114</li>
 				</ul>
 			</div>
-			<form action="" method="post" enctype="multipart/form-data">
+			
 			<div id="me_poser_une_question"  class="font">
 				<div>
 					<h2 class="vert">Me poser une question.</h2>
