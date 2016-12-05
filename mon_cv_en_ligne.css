@@ -3,8 +3,8 @@ body {
 }
 
 h1{
-	color: #9ACD32;
-	border: solid ; #9ACD32;
+	color: GreenYellow;
+	border: solid ; GreenYellow;
 	display: inline-block;
 	border-radius:15%;
 	padding: 10px;
@@ -12,7 +12,7 @@ h1{
 }
 
 h2{
-	color: ForestGreen;
+	color: GreenYellow;
 	border: solid ; #9ACD32;
 	display: inline-block;
 	border-radius:15%;
@@ -37,8 +37,7 @@ h2{
 }
 
 .me_poser_une_question {
-	color: ForestGreen;
-	border: solid ; #9ACD32;
+	border: solid ;
 	display: inline-block;
 	border-radius:15%;
 	padding: 10px;
@@ -51,11 +50,11 @@ h2{
 }
 
 .vert{
-	color: ForestGreen;
+	color: GreenYellow;
 }
 
 #vert {
-	color: FrorestGreen;
+	color: GreenYellow;
 }
 
 #parcours {
@@ -94,6 +93,13 @@ h2{
 li {
 	font-size:30px
 }
+a {
+	color: GreenYellow;
+}
 a:hover {
 	color: white;
+}
+
+#github:hover {
+	font-size:50px;
 }
