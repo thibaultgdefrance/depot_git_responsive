@@ -1,21 +1,22 @@
 body {
-	 background-image: url("/home/thibault/Documents/img/background-image-html.jpg");
+	 background-image: url("/home/thibault/Documents/img/4810611746_d31ec7df88.jpg");
 }
 
 h1{
 	color: GreenYellow;
 	border: solid ; GreenYellow;
 	display: inline-block;
-	border-radius:15%;
+	border-radius:50%;
 	padding: 10px;
 	font-size: 50px;
+	
 }
 
 h2{
 	color: GreenYellow;
 	border: solid ; #9ACD32;
 	display: inline-block;
-	border-radius:15%;
+	border-radius:50%;
 	padding: 10px;
 	font-size: 30px;
 }
@@ -39,7 +40,7 @@ h2{
 .me_poser_une_question {
 	border: solid ;
 	display: inline-block;
-	border-radius:15%;
+	border-radius:50%;
 	padding: 10px;
 }
 
@@ -53,9 +54,7 @@ h2{
 	color: GreenYellow;
 }
 
-#vert {
-	color: GreenYellow;
-}
+
 
 #parcours {
 	display: inline-block;
@@ -79,7 +78,7 @@ h2{
 	height: 100px;
 	width: 100px;
 	top: 20px;
-	right: 100px;
+	right: 110px;
 	position: absolute;
 }
 
@@ -101,5 +100,10 @@ a:hover {
 }
 
 #github:hover {
-	font-size:50px;
+	font-size:20px;
 }
+#knowledge{
+	height:200px;
+	width:600px;
+}
+
