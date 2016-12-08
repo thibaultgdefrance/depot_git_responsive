@@ -67,44 +67,45 @@
 					
 				<br>	
 			
-			
-				<div class="vert"  id="parcours">
-					<h2 class="font">Mon parcours</h2>
-					<ul class="font">
-						<li><a class="hovergreen" href="http://www.filieris.fr/npdc-foyer-logement/npdc-bully-les-mines-fl-joseph-porebski">agent en service hospitalier CARMI</a></li>
-						<li><a class="hovergreen" href="http://www.securite-sociale.fr/">agent administratif securité social</a></li>
-						<li><a class="hovergreen" href="http://www.holcim-haut-rhin.fr/solutions-clients/betons.html">agent administratif et logistique HOLCIM BETON</a></li>
-						<li><a class="hovergreen" href="https://www.radioplus.fr/">ingenieur du son et animateur radio RADIO PLUS</a></li>
-						<li><a class="hovergreen" href="http://telegohelle.over-blog.fr/">monteur video et cadreur TELE GOHELLE</a></li>
-					</ul>
+				<div>
+					<div class="vert"  id="parcours">
+						<h2 class="font">Mon parcours</h2>
+						<ul class="font">
+							<li><a class="hovergreen" href="http://www.filieris.fr/npdc-foyer-logement/npdc-bully-les-mines-fl-joseph-porebski">agent en service hospitalier CARMI</a></li>
+							<li><a class="hovergreen" href="http://www.securite-sociale.fr/">agent administratif securité social</a></li>
+							<li><a class="hovergreen" href="http://www.holcim-haut-rhin.fr/solutions-clients/betons.html">agent administratif et logistique HOLCIM BETON</a></li>
+							<li><a class="hovergreen" href="https://www.radioplus.fr/">ingenieur du son et animateur radio RADIO PLUS</a></li>
+							<li><a class="hovergreen" href="http://telegohelle.over-blog.fr/">monteur video et cadreur TELE GOHELLE</a></li>
+						</ul>
+					</div>
 				</div>
-	
-				<div class="vert" id="a_propos">
-					<h2 class="font">Passions</h2>
-					<ul class="font"> 
-						<li class="hovergreen">Animation 2d/3d</li>
-						<li class="hovergreen">modelisation 3d</li>
-						<li class="hovergreen">sculpture</li>
-						<li class="hovergreen">dessin</li>
-						<li class="hovergreen">musique</li>
-					</ul>
+				<div>
+					<div class="vert" id="a_propos">
+						<h2 class="font">Passions</h2>
+						<ul class="font"> 
+							<li class="hovergreen">Animation 2d/3d</li>
+							<li class="hovergreen">modelisation 3d</li>
+							<li class="hovergreen">sculpture</li>
+							<li class="hovergreen">dessin</li>
+							<li class="hovergreen">musique</li>
+						</ul>
+					</div>	
 				</div>
 
 
-
-
-	
-				<div class="vert" id="etat_civil">
-					<h2 class="font">Me contacter</h2>
-					<ul class="font">
-						<li class="hovergreen">Tel:06.21.22.54.99</li>
-						<li class="hovergreen">Mail:thibault.g.defrance@gmail.com</li>
-						<li class="hovergreen">265 avenue Mitterrand</li>
-						<li class="hovergreen">Sains-en-Gohelle</li>
-						<li class="hovergreen">62114</li>
-					</ul>
-				</div>
 				
+				<div>
+					<div class="vert" id="etat_civil">
+						<h2 class="font">Me contacter</h2>
+						<ul class="font">
+							<li class="hovergreen">Tel:06.21.22.54.99</li>
+							<li class="hovergreen">Mail:thibault.g.defrance@gmail.com</li>
+							<li class="hovergreen">265 avenue Mitterrand</li>
+							<li class="hovergreen">Sains-en-Gohelle</li>
+							<li class="hovergreen">62114</li>
+						</ul>
+					</div>
+				</div>
 				
 				
 		

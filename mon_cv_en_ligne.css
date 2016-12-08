@@ -37,6 +37,8 @@ h2{
 
 .icon:hover {
 	width: 50px;
+	color: black;
+	background-color: Lime;
 }
 
 .me_poser_une_question {
